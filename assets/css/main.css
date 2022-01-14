@@ -1,0 +1,35 @@
+.sobre-lorem-ipsum{
+   align-items: center; 
+   justify-content: space-between;
+}
+
+.sobre-lorem-ipsum article{
+    width: 250px;
+}
+
+.sobre-lorem-ipsum article h1{
+    font-size: 70px;
+    line-height: 90%;
+    font-weight: 400;
+    color: #000;
+}
+
+.sobre-lorem-ipsum article h2,
+.sobre-lorem-ipsum article p{
+    color: #000;
+}
+
+.sobre-lorem-ipsum article h2{
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 200%;
+}
+
+.sobre-lorem-ipsum article p{
+    margin: 10px 0 40px 0;
+}
+
+.sobre-lorem-ipsum figcaption img{
+    width: 700px;
+}

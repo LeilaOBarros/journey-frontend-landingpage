@@ -12,4 +12,4 @@
 * Exercitar as principais tecnologias de Desenvolvimento Web Front-End de forma prática.
 
 ### Link da página hospedada no GitHub Pages:
-* https://leilaobarros.github.io/journey-frontend/site-html-css/
+* https://leilaobarros.github.io/landingpage-frontend-journey/
